@@ -24,6 +24,10 @@ to let the Cloud Native world know about PostgreSQL and how cool it is!
 
 Peggie and the CloudNativePG logo were created by Scarlett Riggs at EDB.
 
+## Template for slides
+
+- [Google Presentation template](https://docs.google.com/presentation/d/1e4JCPjmrt6RC0yfvgxIZJh6mp04flfRu422KR1fvkvE/edit?usp=sharing)
+
 ## Trademarks
 
 *[Postgres, PostgreSQL and the Slonik Logo](https://www.postgresql.org/about/policies/trademarks/)
