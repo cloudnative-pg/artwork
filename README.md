@@ -4,19 +4,19 @@ Here you can find the logo for CloudNativePG, with our mascot *Peggie*.
 Peggie is a young female elephant, the daughter of Slonik. She wants
 to let the Cloud Native world know about PostgreSQL and how cool it is!
 
-![CloudNativePG](./cloudnativepg-logo.svg)
+![CloudNativePG](./horizontal/color/cloudnativepg-horizontal-color.svg)
 
 ---
 
-## Landscape
+## Horizontal
 
-![CloudNativePG logo (landscape)](./landscape/cloudnativepg-landscape-blue.png)
+![CloudNativePG logo (horizontal)](./horizontal/color/cloudnativepg-horizontal-color.png)
 
 ---
 
-## Portrait
+## Stacked
 
-![CloudNativePG logo (portrait)](./portrait/cloudnativepg-portrait-blue.png)
+![CloudNativePG logo (stacked)](stacked/color/cloudnativepg-stacked-color.png
 
 ---
 
